@@ -5,7 +5,7 @@
 ## Start
 
 ```
-npm start
+node .
 ```
 
 ## Test
